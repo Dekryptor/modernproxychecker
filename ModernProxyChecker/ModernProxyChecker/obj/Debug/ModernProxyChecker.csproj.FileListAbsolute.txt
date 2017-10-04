@@ -1,0 +1,13 @@
+E:\c#\ModernProxyChecker\ModernProxyChecker\obj\Debug\ModernProxyChecker.csprojResolveAssemblyReference.cache
+E:\c#\ModernProxyChecker\ModernProxyChecker\obj\Debug\ModernProxyChecker.AddProxyForm.resources
+E:\c#\ModernProxyChecker\ModernProxyChecker\obj\Debug\ModernProxyChecker.Properties.Resources.resources
+E:\c#\ModernProxyChecker\ModernProxyChecker\obj\Debug\ModernProxyChecker.csproj.GenerateResource.Cache
+E:\c#\ModernProxyChecker\ModernProxyChecker\obj\Debug\ModernProxyChecker.csproj.CoreCompileInputs.cache
+E:\c#\ModernProxyChecker\ModernProxyChecker\obj\Debug\ModernProxyChecker.MainForm.resources
+E:\c#\ModernProxyChecker\ModernProxyChecker\obj\Debug\ModernProxyChecker.TestProgressForm.resources
+E:\c#\ModernProxyChecker\ModernProxyChecker\bin\Debug\ModernProxyChecker.exe.config
+E:\c#\ModernProxyChecker\ModernProxyChecker\bin\Debug\ModernProxyChecker.exe
+E:\c#\ModernProxyChecker\ModernProxyChecker\bin\Debug\ModernProxyChecker.pdb
+E:\c#\ModernProxyChecker\ModernProxyChecker\bin\Debug\MaterialSkin.dll
+E:\c#\ModernProxyChecker\ModernProxyChecker\obj\Debug\ModernProxyChecker.exe
+E:\c#\ModernProxyChecker\ModernProxyChecker\obj\Debug\ModernProxyChecker.pdb
