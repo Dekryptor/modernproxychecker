@@ -1,4 +1,4 @@
-# modernproxychecker
+# Modern Proxy Checker
 
 ![Alt text](https://i.imgur.com/qD38Klr.png "Modern Proxy Checker")
 
